@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/kavindisathsarani/Capstone-Project-Configurations.git
+          uri:
           search-paths: platform,services
         native:
           search-locations:
